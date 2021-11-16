@@ -15,6 +15,6 @@ namespace FinalTestgGitInVisual.Model
         public int Leg { get => leg; set => leg = value; }
         public int Hand { get => hand; set => hand = value; }
         public string Name { get => name; set => name = value; }
-        public string Age { get => age; set => age = value; }
+        //public string Age { get => age; set => age = value; }
     }
 }
